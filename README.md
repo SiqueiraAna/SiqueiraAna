@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Siqueira
 
-**`Desenvolvedora Front-end`**
+**`Front-end developer`**
 
 Hey guys! ✨
 
