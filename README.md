@@ -2,15 +2,15 @@
 
 **`Desenvolvedora Front-end`**
 
-Olá pessoal! ✨
+Hey guys! ✨
 
-Apaixonada por tecnologia e pelo impacto positivo que a programação pode gerar na vida das pessoas, estou sempre em busca de novos desafios que me impulsionem a crescer e evoluir.
+Passionate about technology and the positive impact that programming can have on people's lives, I am always looking for new challenges that drive me to grow and evolve.
 
-Atuo como Desenvolvedora Front-End, entregando aplicações responsivas, funcionais e intuitivas, sempre com foco na melhor experiência para o usuário. Tenho experiência em diferentes projetos, prezando por um código limpo, escalável e de fácil manutenção.
+I work as a Front-End Developer, delivering responsive, functional and intuitive applications, always focusing on the best user experience. I have experience in different projects, valuing clean, scalable and easy-to-maintain code.
 
-Atualmente, meu foco está em tecnologias como JavaScript, TypeScript, React e Next.js, buscando aprimorar constantemente minhas habilidades e acompanhar as melhores práticas do mercado. Sou uma profissional dinâmica, de rápida adaptação e aprendizado contínuo, sempre aberta a novas oportunidades e desafios.
+Currently, my focus is on technologies such as JavaScript, TypeScript, React and Next.js, seeking to constantly improve my skills and follow the best market practices. I am a dynamic professional, quick to adapt and continually learn, always open to new opportunities and challenges.
 
-🚀 Vamos conectar e trocar conhecimento?
+🚀 Let’s connect and exchange knowledge?
 
 
 ---
